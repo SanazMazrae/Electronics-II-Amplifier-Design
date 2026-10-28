@@ -1,0 +1,45 @@
+Circuit: * D:\project\elec2_project2\Q5\Q5.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+Direct Newton iteration for .op point succeeded.
+N-Period=1
+Fourier components of V(n007)
+DC component:0.00725351
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	 1.000e+3	 8.395e+0	 1.000e+0	   90.02°	    0.00°
+    2   	 2.000e+3	 3.080e-4	 3.669e-5	   83.31°	   -6.70°
+    3   	 3.000e+3	 3.859e-4	 4.597e-5	  101.10°	   11.09°
+    4   	 4.000e+3	 3.159e-4	 3.762e-5	  -29.67°	 -119.69°
+    5   	 5.000e+3	 6.359e-4	 7.575e-5	  124.59°	   34.57°
+    6   	 6.000e+3	 6.472e-4	 7.709e-5	  179.05°	   89.03°
+    7   	 7.000e+3	 2.474e-4	 2.947e-5	 -132.60°	 -222.62°
+    8   	 8.000e+3	 6.078e-4	 7.240e-5	   37.55°	  -52.47°
+    9   	 9.000e+3	 4.568e-4	 5.441e-5	  -55.98°	 -145.99°
+Partial Harmonic Distortion: 0.016008%
+Total Harmonic Distortion:   0.047880%
+
+
+
+Date: Mon Jul  1 01:56:50 2024
+Total elapsed time: 0.712 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 16594
+traniter = 16581
+tranpoints = 5838
+accept = 4129
+rejected = 1709
+matrix size = 100
+fillins = 120
+solver = Normal
+Avg thread counts: 1.0/1.1/1.1/1.0
+Matrix Compiler1: 15.78 KB object code size  7.3/7.1/[4.5]
+Matrix Compiler2: 11.68 KB object code size  3.9/4.9/[1.2]
+
