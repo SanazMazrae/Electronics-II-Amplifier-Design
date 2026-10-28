@@ -1,0 +1,14 @@
+# LTspice generated files
+*.raw
+*.op.raw
+*.fft
+*.plt
+*.net
+*.log
+!project-2-power-amplifier/results/Q5.log
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
